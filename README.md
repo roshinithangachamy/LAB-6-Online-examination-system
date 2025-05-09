@@ -1,4 +1,5 @@
-# LAB-6-Online-examination-system
+## LAB-6-Online-examination-system
+## DATE:17/04/2025
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
 ### PROBLEM STATEMENT
@@ -16,7 +17,22 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+### NAME:T.Roshini
+### REG NUM:212223230175
+##### USE CASE:
+![image](https://github.com/user-attachments/assets/e64bc7f0-e13c-4acf-bbcd-29ad95c339df)
 
+##### CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/539f2b4d-0788-4be5-a149-6930a83b939e)
+
+##### ACTIVITY DIAGRAM:
+![image](https://github.com/user-attachments/assets/e52ad0de-e27a-4ac7-ba89-dcf853ea5789)
+
+##### COMMUNICATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/952b6659-644e-4f4f-bcfb-72ba19c80d85)
+
+##### PACKAGE DIAGRAM:
+![image](https://github.com/user-attachments/assets/e88d1ff8-5b44-4408-8ed5-eaad7e32b778)
 
 
 ### RESULT:
